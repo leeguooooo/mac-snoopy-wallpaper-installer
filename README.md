@@ -7,7 +7,7 @@
 先让仓库管理员把你的 GitHub 账号加入私有仓库，再在 Mac 的“终端”执行：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/leeguooooo/snoopy-family-wallpaper-installer/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/leeguooooo/mac-snoopy-wallpaper-installer/main/install.sh | bash
 ```
 
 首次运行会打开 GitHub 登录页面。登录成功后，脚本自动下载、校验并导入完整壁纸；最后在系统壁纸设置中点击 `Snoopy-All-65-Scenes` 一次。
