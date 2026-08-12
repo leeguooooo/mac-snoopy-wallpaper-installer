@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-PRIVATE_REPOSITORY="leeguooooo/snoopy-family-wallpaper"
+PRIVATE_REPOSITORY="leeguooooo/mac-snoopy-wallpaper"
 
 say() {
   printf '%s\n' "$*"
