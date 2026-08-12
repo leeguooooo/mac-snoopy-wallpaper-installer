@@ -12,6 +12,8 @@ curl -fsSL https://raw.githubusercontent.com/leeguooooo/snoopy-family-wallpaper-
 
 首次运行会打开 GitHub 登录页面。登录成功后，脚本自动下载、校验并导入完整壁纸；最后在系统壁纸设置中点击 `Snoopy-All-65-Scenes` 一次。
 
+如果首次安装提示 Phosphene 壁纸扩展尚未生效，请退出登录 macOS、重新登录，再运行同一条命令。扩展检查在大文件下载前完成。
+
 要求：macOS 26+、Homebrew、至少 14 GB 可用空间。
 
 > 仅供本人和家庭设备使用。公开仓库不包含视频；不要公开转载、转售或二次分发私有素材。
